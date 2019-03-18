@@ -1,7 +1,6 @@
 def is_palindromic(lst, n):
 
-	
-	#check how many different numbers could be in the n-matrix
+	#check how many different numbers could b in the n-matrix
 	len_set = len(set(lst))
 	set_ = set(lst)
 	
